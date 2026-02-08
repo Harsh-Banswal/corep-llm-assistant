@@ -29,6 +29,10 @@ natural language. The system is auditable, non-hallucinating, and
 includes a fallback mechanism to handle LLM API quota limitations.
 
 
+1.2
+Install the python libs which are present in requirements.txt file
+
+
 2. PROJECT OBJECTIVES
 --------------------
 The main objectives of this prototype are:
