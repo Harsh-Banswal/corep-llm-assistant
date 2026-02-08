@@ -1,0 +1,114 @@
+PRA Rulebook – Own Funds (CRR)
+Phase 0: Conceptual and Reporting-Level Summary
+(Supporting COREP Template C 01.00 – Own Funds)
+
+----------------------------------------------------------------
+
+1. Purpose of Own Funds
+
+Own funds represent the capital resources of an institution that are available to absorb losses and protect depositors, creditors, and the stability of the financial system.
+
+Regulatory capital must be:
+- Loss absorbing
+- Permanently or conditionally available
+- Genuinely funded by investors
+- Reliable in periods of financial stress
+
+These principles underpin prudential supervision and COREP reporting.
+
+----------------------------------------------------------------
+
+2. Composition of Own Funds
+
+Own funds consist of the following components:
+
+- Tier 1 Capital
+- Tier 2 Capital
+
+Tier 1 Capital is further divided into:
+- Common Equity Tier 1 (CET1)
+- Additional Tier 1 (AT1)
+
+This structure reflects the relative quality and loss-absorbing capacity of capital.
+
+----------------------------------------------------------------
+
+3. Tier 1 Capital
+
+Tier 1 capital represents going-concern capital and absorbs losses while an institution remains operational.
+
+Tier 1 capital consists of the sum of:
+- Common Equity Tier 1 capital
+- Additional Tier 1 capital
+
+----------------------------------------------------------------
+
+4. Common Equity Tier 1 (CET1) Capital
+
+Common Equity Tier 1 capital is the highest quality form of regulatory capital.
+
+Key characteristics:
+- Absorbs losses first
+- Is permanent and fully available
+- Provides the strongest protection to creditors
+
+CET1 capital includes, at a high level:
+- Ordinary shares
+- Retained earnings
+- Reserves and accumulated income
+
+For COREP purposes, CET1 is reported as an aggregate amount.
+
+----------------------------------------------------------------
+
+5. Additional Tier 1 (AT1) Capital
+
+Additional Tier 1 capital consists of eligible capital instruments that absorb losses while the institution remains a going concern.
+
+Key characteristics:
+- Subordinate to CET1
+- Includes contractual loss absorption mechanisms
+- May be written down or converted when capital levels fall
+
+AT1 instruments provide an additional buffer above CET1.
+
+----------------------------------------------------------------
+
+6. Tier 2 Capital
+
+Tier 2 capital represents gone-concern capital.
+
+Key characteristics:
+- Absorbs losses in resolution or insolvency
+- Is subordinate to Tier 1 capital
+- Provides protection once CET1 and AT1 are exhausted
+
+Tier 2 capital contributes to total own funds but is lower quality than Tier 1.
+
+----------------------------------------------------------------
+
+7. Capital Hierarchy and Loss Absorption Order
+
+Capital instruments are organised in a strict hierarchy based on loss-absorbing capacity:
+
+1. Common Equity Tier 1 (first to absorb losses)
+2. Additional Tier 1
+3. Tier 2 (last to absorb losses)
+
+This hierarchy is fundamental to prudential regulation and COREP aggregation logic.
+
+----------------------------------------------------------------
+
+8. Reporting Perspective (COREP Context)
+
+COREP Own Funds reporting focuses on:
+- Aggregated capital categories (CET1, AT1, Tier 2)
+- Clear reconciliation between components
+- Accurate calculation of total own funds
+
+Instrument-level eligibility tests, transitional arrangements, and detailed deductions are outside the scope of this conceptual summary and are addressed in more detailed regulatory provisions.
+
+----------------------------------------------------------------
+
+End of Phase 0 Summary
+
